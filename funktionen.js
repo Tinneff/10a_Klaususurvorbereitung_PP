@@ -16,7 +16,7 @@
 /* Daten-Objekte */
 // Navigation über Bezeichner (keys)
 
-/
+
 
  /*DOM*/
 // DOM  --> Modell der HTMl-Struktur
